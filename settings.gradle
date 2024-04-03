@@ -1,0 +1,5 @@
+rootProject.name = 'multimodule'
+include 'module-core'
+include 'module-baekjoon'
+include 'module-board'
+
